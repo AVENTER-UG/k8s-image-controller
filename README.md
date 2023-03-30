@@ -1,3 +1,9 @@
-# K8s Controller ...
+# K8s Image Controller 
 
-... to demonstrate, how to change the Image Repository URL on the fly.
+This Kubernetes controller replace "on the fly" the image repository hostname. 
+
+## How to build
+
+```bash
+make
+```
